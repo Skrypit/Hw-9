@@ -1,0 +1,10 @@
+name age
+alice 21
+ryan 30
+vasya 12
+sasha 41
+vika 32
+reptyloid 228
+petro 19
+anton 54
+щеімя 25
